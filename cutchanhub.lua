@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("Có cái con cặc thằng mặt lồn tham lam ngu xi đần độn")
